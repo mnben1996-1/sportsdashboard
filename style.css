@@ -1,10 +1,9 @@
 body {
     background-color: #e3f2fd; /* Light blue */
 }
+
 h1 {
-   .montserrat-<uniquifier> {
-  font-family: "Montserrat", serif;
-  font-optical-sizing: auto;
-  font-weight: 100;
-  font-style: normal;
-}}
+    font-family: 'Montserrat', serif; /* Correct font */
+    font-weight: 100; /* Light weight */
+    font-style: normal;
+}
