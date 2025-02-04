@@ -2,8 +2,9 @@ body {
     background-color: #e3f2fd; /* Light blue */
 }
 h1 {
-    font-family: 'Montserrat', sans-serif; /* Use the font */
-    font-size: 36px; /* Size of the title */
-    color: #333; /* Color of the title */
-    font-weight: 700; /* Bold weight */
-}
+   .montserrat-<uniquifier> {
+  font-family: "Montserrat", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}}
